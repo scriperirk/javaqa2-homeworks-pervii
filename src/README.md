@@ -13,7 +13,7 @@ https://github.com/scriperirk/javaqa2-homeworks-pervii/blob/dbbe3a307efe4f11b71d
 *Фактический результат:* куриных бёдер равно 1 (chicken = 6,eaters = 5)
 
 #Скриншот
-
+https://github.com/scriperirk/javaqa2-homeworks-pervii/blob/c52dcc563579852909188f8aef37885dcd5c9f57/Screenshot.png
 
 #Окружение
 * **Операционнаы система:** Windows 10
